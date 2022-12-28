@@ -3,7 +3,7 @@
   "version": "0.0.5",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"no test specified\" && exit 1"
+    "test": "echo \"no test specified\" "
   },
   "repository": {
     "type": "git",
