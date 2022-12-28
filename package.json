@@ -1,26 +1,19 @@
 {
   "name": "@wenqiangshen0219/npm-package-test",
-  "version": "0.0.2",
-  "description": "A test npm package ",
+  "version": "0.0.3",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"hello world\""
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/wenqiangshen0219/npm-package-test.git"
   },
-  "keywords": [
-    "test"
-  ],
   "author": "sven",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/wenqiangshen0219/npm-package-test/issues"
   },
-  "homepage": "https://github.com/wenqiangshen0219/npm-package-test#readme",
-  "dependencies": {
-    "@wenqiangshen0219/npm-package-test": "^0.0.1"
-  },
-  "devDependencies": {}
+  "homepage": "https://github.com/wenqiangshen0219/npm-package-test#readme"
 }
