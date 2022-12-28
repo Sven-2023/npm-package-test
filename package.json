@@ -1,0 +1,22 @@
+{
+  "name": "@wenqiangshen0219/npm-package-test",
+  "version": "0.0.1",
+  "description": "A test npm package ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"hello world\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wenqiangshen0219/npm-package-test.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "sven",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wenqiangshen0219/npm-package-test/issues"
+  },
+  "homepage": "https://github.com/wenqiangshen0219/npm-package-test#readme"
+}
