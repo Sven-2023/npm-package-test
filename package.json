@@ -1,10 +1,9 @@
 {
   "name": "@wenqiangshen0219/npm-package-test",
-  "version": "0.0.3",
-  "description": "",
+  "version": "0.0.5",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -15,5 +14,9 @@
   "bugs": {
     "url": "https://github.com/wenqiangshen0219/npm-package-test/issues"
   },
-  "homepage": "https://github.com/wenqiangshen0219/npm-package-test#readme"
+  "homepage": "https://github.com/wenqiangshen0219/npm-package-test#readme",
+  "description": "A test npm package ",
+  "keywords": [
+    "test"
+  ]
 }
